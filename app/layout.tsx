@@ -17,8 +17,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <style>{`
           .site-header{background:#060f08;border-bottom:1px solid rgba(255,255,255,0.07);padding:14px 0;position:sticky;top:0;z-index:100}
           .header-inner{max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:24px}
-          .site-brand{font-size:1.1rem;font-weight:800;color:#fff;text-decoration:none;white-space:nowrap}
+          .site-brand{font-size:1.1rem;font-weight:800;color:#fff;text-decoration:none;white-space:nowrap;display:flex;align-items:center;gap:9px;transition:color 0.15s}
           .site-brand:hover{color:#10b981}
+          .site-logo{flex-shrink:0;display:block}
           .cat-nav{position:relative}
           .cat-btn{background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);color:#e2e8f0;font-size:0.875rem;font-weight:600;padding:8px 16px;border-radius:8px;cursor:pointer;display:flex;align-items:center;gap:6px;white-space:nowrap;transition:background 0.15s,border-color 0.15s}
           .cat-btn:hover,.cat-nav:focus-within .cat-btn{background:rgba(255,255,255,0.1);border-color:#10b981;color:#10b981}
@@ -33,7 +34,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         `}</style>
         <header className="site-header">
           <div className="header-inner">
-            <a href="/" className="site-brand">{SITE_NAME}</a>
+            <a href="/" className="site-brand">
+              <svg className="site-logo" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#10b981" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/>
+              </svg>
+              {SITE_NAME}
+            </a>
             <nav className="cat-nav" tabIndex={0}>
               <button className="cat-btn" aria-haspopup="true">
                 Categories
