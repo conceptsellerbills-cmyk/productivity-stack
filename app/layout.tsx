@@ -46,18 +46,27 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
               </button>
               <div className="cat-dropdown" role="menu">
-              <a href="/category/task-management">📋 Task Management</a>
-              <a href="/category/note-taking">📝 Note-Taking Apps</a>
-              <a href="/category/calendar">📅 Calendar & Scheduling</a>
+              <a href="/category/task-managers">✅ Task Managers</a>
+              <a href="/category/note-taking">📓 Note-taking</a>
               <a href="/category/time-tracking">⏱️ Time Tracking</a>
-              <a href="/category/collaboration">🤝 Team Collaboration</a>
-              <a href="/category/file-management">📁 File Management</a>
-              <a href="/category/ai-productivity">🤖 AI Productivity Tools</a>
-              <a href="/category/email-management">✉️ Email Management</a>
-              <a href="/category/goal-setting">🎯 Goal Setting & OKRs</a>
-              <a href="/category/focus">🧘 Focus & Deep Work</a>
-              <a href="/category/project-management">📊 Project Management</a>
-              <a href="/category/automation">🔄 Automation Tools</a>
+              <a href="/category/focus">🎯 Focus Tools</a>
+              <a href="/category/automation">⚡ Automation</a>
+              <a href="/category/collaboration">🤝 Collaboration</a>
+              <a href="/category/email-productivity">📧 Email Productivity</a>
+              <a href="/category/meeting-tools">📅 Meeting Tools</a>
+              <a href="/category/ai-writing">🤖 AI Writing Tools</a>
+              <a href="/category/habit-tracking">🔄 Habit Tracking</a>
+              <a href="/category/writing-apps">✍️ Writing Apps</a>
+              <a href="/category/budget-apps">💰 Budget Apps</a>
+              <a href="/category/meditation-apps">🧘 Meditation Apps</a>
+              <a href="/category/pkm">🧠 PKM Tools</a>
+              <a href="/category/pomodoro">🍅 Pomodoro Apps</a>
+              <a href="/category/goal-setting">🏆 Goal Setting</a>
+              <a href="/category/mind-mapping">🗺️ Mind Mapping</a>
+              <a href="/category/app-blockers">🚫 App Blockers</a>
+              <a href="/category/reading-apps">📖 Reading Apps</a>
+              <a href="/category/launchers">🚀 Launchers</a>
+              <a href="/category/ai-productivity">🤖 AI Productivity</a>
               </div>
             </nav>
           </div>
