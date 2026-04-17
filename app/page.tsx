@@ -5,6 +5,7 @@ import NewsletterForm from '../components/NewsletterForm'
 export const metadata: Metadata = {
   title: "Best Productivity Tools Reviewed & Ranked 2025",
   description: "Expert reviews of the best productivity apps, task managers, note-taking tools and automation software.",
+  alternates: { canonical: "https://www.productivity-stack.com" },
 };
 
 const STARS = (n: number) => "★".repeat(n) + "☆".repeat(5 - n);
