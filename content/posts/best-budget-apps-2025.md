@@ -57,7 +57,7 @@ After Mint's closure, Monarch Money emerged as the most recommended replacement.
 - Automatic bank account and credit card sync
 - Custom budget categories with rollover
 - Net worth tracking with investment accounts
-- Financial goal setting with progress tracking
+- Financial [goal setting](/best-goal-setting-apps-2025) with progress tracking
 - Cash flow and spending trend reports
 - Shared access for couples
 - Data import from Mint
