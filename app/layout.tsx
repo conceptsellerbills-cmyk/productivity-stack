@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import FooterNewsletter from "../components/FooterNewsletter";
+import Script from "next/script";
 
 const SITE_NAME = "Productivity Stack";
 
@@ -137,6 +138,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </div>
         </footer>
+      
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-FMD8GK2S20"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-FMD8GK2S20');
+          `}
+        </Script>
       </body>
     </html>
   );
