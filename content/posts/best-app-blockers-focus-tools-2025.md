@@ -71,7 +71,7 @@ RescueTime runs silently in the background, automatically tracking time spent in
 - Automatic time tracking across all apps
 - FocusTime blocks distractions with one click
 - Weekly productivity reports and trends
-- Goal setting with daily focus time targets
+- [Goal setting](/best-goal-setting-apps-2025) with daily focus time targets
 - Works on Mac, Windows, Android (iOS limited)
 
 **Limitations:**
