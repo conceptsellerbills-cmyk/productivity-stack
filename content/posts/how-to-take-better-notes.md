@@ -124,3 +124,13 @@ Whatever system you use, the single most impactful habit you can build is review
 Memory research shows that forgetting follows a predictable curve (the Ebbinghaus Forgetting Curve): without review, we forget approximately 50% of new information within 24 hours and up to 80% within a week. A brief review within 24 hours resets this curve dramatically, converting short-term memory into long-term retention.
 
 Even five minutes of reviewing yesterday's notes — reading through them, filling in gaps, adding connections to other things you know — produces retention improvements that hours of re-reading at test time cannot replicate.
+
+---
+
+## Related Articles
+
+- [Ikigai Book Summary: The Japanese Secret to a Long and Happy Life](/ikigai-book-summary)
+- [Morning Routine for Productivity: Build a Routine That Sets Up Your Best Day](/morning-routine-for-productivity)
+- [Best AI Productivity Assistants in 2025: From Copilots to Autonomous Agents](/best-ai-productivity-assistants-2025)
+- [Best Note-Taking Apps in 2025: Obsidian, Notion, Roam, and More](/best-note-taking-apps-2025)
+- [Best To-Do List Apps in 2025: Ranked and Reviewed](/best-to-do-list-app-2025)
