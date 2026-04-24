@@ -97,3 +97,13 @@ After two weeks at 30 minutes, increase to 45. Then 60. Then 90.
 Track your deep work hours in a simple spreadsheet or the back of a notebook. Review weekly. The goal for most knowledge workers is 3-4 hours of genuine deep work per day — more is diminishing returns.
 
 One final truth: depth requires rest. The research on mental fatigue shows that afternoon deep work is harder than morning deep work, and that recovery — walks, sleep, non-work activities — is part of the deep work system, not separate from it. Protect your evenings as fiercely as you protect your morning focus blocks.
+
+---
+
+## Related Articles
+
+- [Essentialism by Greg McKeown: Summary, Key Ideas, and How to Apply It](/essentialism-book-summary-2025)
+- [GTD Method Explained: The Complete Guide to Getting Things Done](/gtd-method-explained)
+- [The Pomodoro Technique Explained: How to Use It to Get More Done](/pomodoro-technique-explained)
+- [Best Email Productivity Tools 2025: Inbox Zero & Beyond](/best-email-productivity-tools-2025)
+- [Best Productivity Books in 2025 (That Actually Work)](/best-productivity-books-2025)
