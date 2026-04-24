@@ -146,3 +146,13 @@ Even in high-availability roles, there are usually windows (early morning, late 
 Evidence is mixed. Instrumental music without lyrics (ambient, classical, lo-fi) can help some people by masking unpredictable background noise. Lyrics engage the language-processing parts of the brain competing with reading/writing tasks. Experiment to find what works for you.
 
 The ability to focus deeply is increasingly rare and increasingly valuable. Building it is one of the highest-leverage investments you can make in your career.
+
+---
+
+## Related Articles
+
+- [Deep Work Techniques That Actually Work in 2025](/deep-work-productivity-techniques-2025)
+- [Essentialism by Greg McKeown: Summary, Key Ideas, and How to Apply It](/essentialism-book-summary-2025)
+- [Notion vs Obsidian in 2025: Which Note-Taking App Is Right for You?](/notion-vs-obsidian-2025)
+- [Best Calendar Apps 2025: Top Picks for Scheduling and Time Management](/best-calendar-apps-2025)
+- [Best Productivity Apps 2025: 20 Tools to Get More Done](/best-productivity-apps-2025)
