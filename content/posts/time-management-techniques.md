@@ -165,3 +165,13 @@ Brain dump everything on paper. Then do a 2-minute GTD process: is each item act
 
 ### Is multitasking ever effective?
 For tasks requiring different cognitive types (e.g., listening to music while doing data entry), yes. For tasks requiring the same cognitive resource (reading emails while writing a report), switching costs eliminate any benefit.
+
+---
+
+## Related Articles
+
+- [Zettelkasten Method Explained: How to Build a Second Brain](/zettelkasten-method-explained)
+- [The 5 AM Club Book Summary: Key Lessons from Robin Sharma](/5-am-club-book-summary)
+- [Best Journaling Apps 2025: Top Picks for Daily Reflection and Clarity](/best-journaling-apps-2025)
+- [Best Reading Apps in 2025: Top Tools for Books, Articles & Speed Reading](/best-reading-apps-2025)
+- [How to Focus Better: Science-Backed Strategies to Improve Concentration](/how-to-focus-better)
