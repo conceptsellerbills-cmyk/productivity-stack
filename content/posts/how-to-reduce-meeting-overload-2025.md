@@ -105,3 +105,13 @@ Pick one action to implement this week:
 3. Replace next week's status meeting with an async check-in doc
 
 Small changes compound. A year from now, you could have 10 extra hours per week that currently disappear into unnecessary calls.
+
+---
+
+## Related Articles
+
+- [How to Stop Procrastinating: Science-Backed Strategies That Actually Work](/how-to-stop-procrastinating)
+- [How to Take Better Notes: Proven Methods for Retention and Clarity](/how-to-take-better-notes)
+- [The 5 AM Club Book Summary: Key Lessons from Robin Sharma](/5-am-club-book-summary)
+- [Best Meeting Tools 2025: Scheduling, Recording & Async Alternatives](/best-meeting-tools-2025)
+- [Best Time Blocking Apps in 2025: Take Control of Your Day](/best-time-blocking-apps-2025)
