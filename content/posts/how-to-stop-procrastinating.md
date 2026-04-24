@@ -112,3 +112,13 @@ Individual techniques are most effective when combined into a system:
 Stopping procrastination doesn't require iron willpower or ruthless self-discipline. It requires understanding why you avoid specific tasks, addressing the emotional root cause, and designing systems that make starting easier than avoiding.
 
 Be patient with yourself. Procrastination patterns developed over years change over months, not days. Each small act of starting despite resistance is both productive in itself and evidence that builds your self-efficacy for the next time.
+
+---
+
+## Related Articles
+
+- [How to Take Better Notes: Proven Methods for Retention and Clarity](/how-to-take-better-notes)
+- [Ikigai Book Summary: The Japanese Secret to a Long and Happy Life](/ikigai-book-summary)
+- [Atomic Habits Summary: Key Lessons and Takeaways](/atomic-habits-book-summary)
+- [Best Mind Mapping Software in 2025: Top Tools for Visual Thinking](/best-mind-mapping-software-2025)
+- [Best Time Management Techniques 2025: Methods That Actually Work](/best-time-management-techniques-2025)
