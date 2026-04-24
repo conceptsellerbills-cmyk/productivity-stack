@@ -123,3 +123,13 @@ After any of the above routines, add 60–90 minutes of protected deep work on y
 The best morning routine for productivity isn't the most elaborate or the earliest — it's the one that consistently puts you in a state of physical alertness, mental clarity, and intentional focus before the reactive demands of the day take over. Start small (protect your first hour from screens, add brief movement), demonstrate consistency, and build from there.
 
 The morning is worth protecting. What you do in it shapes everything that follows.
+
+---
+
+## Related Articles
+
+- [Notion Productivity System 2025: Build Your Second Brain](/notion-productivity-system)
+- [Notion vs Obsidian in 2025: Which Note-Taking App Is Right for You?](/notion-vs-obsidian-2025)
+- [Best App Blockers & Focus Tools in 2025: Block Distractions, Get More Done](/best-app-blockers-focus-tools-2025)
+- [Best Planners for Productivity in 2025: Paper and Digital Options](/best-planners-for-productivity-2025)
+- [Deep Work Guide 2025: How to Do Focused Work in a Distracted World](/deep-work-guide-2025)
